@@ -5,10 +5,10 @@
 		4.0.0
 	</modelVersion>
 	<groupId>
-		id.numetagen.sdk
+		id.numetagen
 	</groupId>
 	<artifactId>
-		numetagen-sdk
+		sdk
 	</artifactId>
 	<version>
 		0.8.3
